@@ -1,0 +1,27 @@
+main{
+    display: flex;
+    flex-direction: column;
+    padding: 6rem;
+    gap: 3rem;
+}
+img{
+    width: 50%;
+}
+section{
+       
+    box-shadow: 0px 1px 5px #000;
+    border-radius: 3rem;
+    background-color: rgb(235, 236, 236);
+    padding: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#presentation{
+
+    color:black;
+    font-size: 2rem;
+}
+#services{
+    color: rgb(31, 1, 1);
+    font-size: 2rem;
+
+}
